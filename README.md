@@ -1,1 +1,2 @@
 # FeatureDetection
+The objective is to develop a code that can identify distinctive features in an image, which remain relatively unchanged despite translation, rotation, and illumination variations. These discerning features will then be utilized to establish correspondences with the most suitable matching features in another image. By achieving this, you will enable the stitching of multiple images together, ultimately creating a panoramic view.
